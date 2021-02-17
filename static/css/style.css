@@ -1,0 +1,17 @@
+.kp {
+    color: red;
+    font-weight: 600;
+}
+
+.kp-input {
+    font-size: 12px;
+    font-weight: 600;
+    color: red;
+    text-align: center;
+    width: 30px;
+    margin: auto 5px auto 10px;
+}
+
+#goto-id {
+    width: 30px;
+}
